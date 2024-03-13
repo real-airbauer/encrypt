@@ -11,8 +11,8 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)](#)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](#)
 [![CodeQL](https://github.com/real-airbauer/encrypt/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/real-airbauer/encrypt/actions/workflows/codeql-analysis.yml)
-[![Node.js CI](https://github.com/real-airbauer/encrypt/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/sh-dv/hat.sh/actions/workflows/node.js.yml)
-[![Snyk](https://github.com/real-airbaur/encrypt/actions/workflows/snyk.yml/badge.svg)](https://github.com/sh-dv/hat.sh/actions/workflows/snyk.yml)
+[![Node.js CI](https://github.com/real-airbauer/encrypt/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/real-airbauer/encrypt/actions/workflows/node.js.yml)
+[![Snyk](https://github.com/real-airbauer/encrypt/actions/workflows/snyk.yml/badge.svg)](https://github.com/real-airbauer/encrypt/actions/workflows/snyk.yml)
 
 </div>
 
